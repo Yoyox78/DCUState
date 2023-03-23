@@ -1,5 +1,7 @@
 Dcustate
 
+Attention pour utiliser ce plugin, il vous faut installer Dell Command Update (ne pas installer la version universelle car elle ne contient pas le CLI)
+
 C'est un plugin permettant de remonter les information concernant les MAJ disponible pour dell (drivers,bios, etc..)
 Il ya 3 colonne
 
