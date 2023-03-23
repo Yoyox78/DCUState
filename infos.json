@@ -1,0 +1,13 @@
+{
+"displayName" : "dcustate",
+"author" : ["Yoann LECLERC"],
+"contributor" : [],
+"supportedAgent" : ["Windows"],
+"version" : "1",
+"licence" : "GPLv2",
+"description" : 
+    {
+        "fr" : "Liste les mise à jour de dell command update",
+		"en" : "Lists the updates of dell command update"
+    }
+}
